@@ -5,9 +5,10 @@ env:
   - "RAILS_VERSION=4.2.6"
   - "RAILS_VERSION=master"
 rvm:
-  - 2.2.7
-  - 2.3.4
-  - 2.4.1
+  - 2.2
+  - 2.3
+  - 2.4
+  - 2.5
   - jruby-9.1.12.0
   - rbx-3.71
 before_install:
